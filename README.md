@@ -1,8 +1,5 @@
 # Calcolatore-Plateau
-Allora
-
-questi programmi python permettono di visualizzare e calcolare i plateau delle pressioni
-
+questi programmi python permettono di visualizzare e calcolare i plateau in un grafico
 - tramite plateau.py si può semplicemente graficare il plateau
 - tramite metodo1.py si possono calcolare manualmente i plateau
     * per farlo fare 1 click col mouse all'inizio del plateau e 1 click alla fine (dovrebbero apparire due crocette rosse, rispettivamente all'inizio e alla fine)
